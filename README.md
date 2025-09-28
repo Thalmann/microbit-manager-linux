@@ -26,6 +26,13 @@ A Terminal User Interface (TUI) for managing microbit .hex files. This tool auto
 - sudo privileges (required for mounting/unmounting devices)
 - microbit with data-capable USB cable
 
+### Microbit Compatibility
+
+**Tested with**: microbit v1.3B  
+**Expected to work with**: All microbit versions (v1.0, v1.3, v1.5, v2.0, v2.2)
+
+This tool has been developed and tested with a microbit v1.3B, but should work with all microbit versions as it uses standard USB device detection and mounting. If you encounter issues with other versions, please report them in the GitHub issues.
+
 ## Installation
 
 1. Clone this repository:
