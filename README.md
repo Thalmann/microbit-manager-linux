@@ -30,7 +30,7 @@ A Terminal User Interface (TUI) for managing microbit .hex files. This tool auto
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/microbit-manager-linux.git
+git clone https://github.com/Thalmann/microbit-manager-linux.git
 cd microbit-manager-linux
 ```
 
